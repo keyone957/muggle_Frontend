@@ -1,0 +1,80 @@
+{
+  "project_info": {
+    "project_number": "730040927113",
+    "firebase_url": "https://special-order-e82b5-default-rtdb.firebaseio.com",
+    "project_id": "special-order-e82b5",
+    "storage_bucket": "special-order-e82b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730040927113:android:db70b38967da25d3979758",
+        "android_client_info": {
+          "package_name": "com.muggl.muggl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730040927113-cmnimcae65ovtnctc5a72m3rnqje7tnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muggl.muggl",
+            "certificate_hash": "99eb20ae9627ba17e1134daf37e4bbdeafe76739"
+          }
+        },
+        {
+          "client_id": "730040927113-cto1aidvrf65t0b349ob5h0qblm1c9jf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muggl.muggl",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "730040927113-d06pbtjmtvst1vdc36qktr455oanli6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muggl.muggl",
+            "certificate_hash": "ad12e352d8fc29cb51a353e0e0cea7c60a89a4ba"
+          }
+        },
+        {
+          "client_id": "730040927113-vb6cm9kk5k6vmjst4n6tcvo6b4u3jlr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muggl.muggl",
+            "certificate_hash": "72503bce6d6cf856e94ad9938af5b0400355f305"
+          }
+        },
+        {
+          "client_id": "730040927113-4bd1cmt0dpuduj2rs3o80smubh25eh5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA8trlfN6yJS4EN5ydPTBfcUhbGk9gfs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730040927113-4bd1cmt0dpuduj2rs3o80smubh25eh5h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "730040927113-e424bunllg5geknnkshvcp6c93gfkqm9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.muggl.muggl",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

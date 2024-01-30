@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="icon" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <path id="사각형_1580" fill="none" d="M0 0H24V24H0z"/>
+    <g id="Icon_feather-arrow-left" transform="translate(5 5)">
+        <path id="패스_1058" d="M5 12h14" class="cls-2" transform="translate(-5 -5)"/>
+        <path id="패스_1059" d="M5 19l7-7-7-7" class="cls-2" transform="translate(2 -5)"/>
+    </g>
+</svg>
